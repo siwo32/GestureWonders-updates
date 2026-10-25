@@ -1,0 +1,12 @@
+MiM Gesture Wonders update metadata
+
+This repository contains update metadata only. Do not upload paid source code, shaders, or Unity packages.
+
+free.json: Free edition
+paid.json: Paid edition
+
+Prepare and verify the matching Unity package before changing a feed. Set version to the public version and increase build monotonically. Ver1.0 uses build 30105 to remain newer than internal test builds. Future builds must exceed 30105.
+
+Use https://howareyu.booth.pm/items/9044788 as download_url. Keep edition equal to free or paid. Add Japanese changes and English changes_en arrays.
+
+The tool checks once per Unity editor session and also supports a manual check. It does not install updates automatically.
