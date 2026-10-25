@@ -1,0 +1,14 @@
+{
+  "edition": "free",
+  "build": 30105,
+  "version": "1.0",
+  "download_url": "https://howareyu.booth.pm/items/9044788",
+  "changes": [
+    "Ver1.0として公開。",
+    "更新情報の確認機能を搭載。"
+  ],
+  "changes_en": [
+    "Initial public release Ver1.0.",
+    "Added update checking."
+  ]
+}
